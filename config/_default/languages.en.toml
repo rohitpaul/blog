@@ -11,16 +11,16 @@ title = "Rohit's Blog"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
   name = "Rohit Paul"
   email = "rohit.paul2@gmail.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-  headline = "I'm only human"
-  bio = "Enterprise Support Lead at AWS"
+  image = "profile.jpg"
+  imageQuality = 96
+  headline = "Living life one day at a time"
+  bio = "AWS | Enterprise Support Lead | Sr. Technical Account Manager"
   links = [
     { email = "mailto:rohit.paul2@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
