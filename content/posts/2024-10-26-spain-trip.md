@@ -1,5 +1,5 @@
 ---
-title: Spain Trip
+title: Spain Trip High level
 date: 2024-10-26T11:10:00
 description: Spain trip itinerary
 draft: true

@@ -14,8 +14,8 @@ enableRobotsTXT = true
 paginate = 10
 summaryLength = 0
 
-buildDrafts = true
-buildFuture = false
+#buildDrafts = true
+#buildFuture = false
 
 enableEmoji = true
 
