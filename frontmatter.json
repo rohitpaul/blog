@@ -52,7 +52,8 @@
   "frontMatter.content.pageFolders": [
     {
       "title": "posts",
-      "path": "[[workspace]]/content/posts"
+      "path": "[[workspace]]/content/posts",
+      "previewPath": "posts/"
     }
   ],
   "frontMatter.git.enabled": true
